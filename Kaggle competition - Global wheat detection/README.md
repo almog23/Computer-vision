@@ -13,5 +13,5 @@ which wasnt enough for what we wanted to achieve.
 
 Our idea was to use these trained models to make an ensemble of our models.
 The 'inference' file demonstrate how we made the ensemble with the methods that we used including TTA and WBF.
-The ensemble improved our score to 0.72 which placed us in the top **20% of the competition**.
+The ensemble improved our score to 0.72 which placed us in the **top 20% of the competition**.
 
